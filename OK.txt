@@ -1,0 +1,4 @@
+trojan://bpb-trojan@visa.cn:443?security=tls&sni={url}&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host={url}&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@visa.cn:443?security=tls&sni={url}&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host={url}&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@visa.cn:443?security=tls&sni={url}&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host={url}&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@visa.cn:443?security=tls&sni={url}&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host={url}&path=%2Ftr%3Fed%3D2560#BPB
