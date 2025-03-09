@@ -1,4 +1,12 @@
-trojan://bpb-trojan@visa.co.ke:443?security=tls&sni=hbpb.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=hbpb.us.kg&path=%2Ftr%3Fed%3D2560#BPB
-trojan://bpb-trojan@developers.cloudflare.com:443?security=tls&sni=sub.ttt888.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=sub.ttt888.us.kg&path=%2Ftr%3Fed%3D2560#BPB
-trojan://bpb-trojan@ns3.cloudflare.com:443?security=tls&sni=cnx.anjomansut.ir&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=cnx.anjomansut.ir&path=%2Ftr%3Fed%3D2560#BPB
-trojan://bpb-trojan@visa.com.ai:443?security=tls&sni=rokkor.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=rokkor.us.kg&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@caribbean.visa.com:443?security=tls&sni=skwygx.top&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=skwygx.top&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@www.visaeurope.at:443?security=tls&sni=renjianlivings.top&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=renjianlivings.top&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@ns5.cloudflare.com:443?security=tls&sni=sub.ttt888.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=sub.ttt888.us.kg&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@visa.cn:443?security=tls&sni=hbpb.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=hbpb.us.kg&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@sso.cloudflare.dev:443?security=tls&sni=javadseyedi.mobailfarid2.ir&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=javadseyedi.mobailfarid2.ir&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@time.is:443?security=tls&sni=prayer.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=prayer.us.kg&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@ai.cloudflare.com:443?security=tls&sni=bpb.isoho168.top&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=bpb.isoho168.top&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@portal.cloudflarepartners.com:443?security=tls&sni=ss.cceo.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=ss.cceo.us.kg&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@www.visa.com.tw:443?security=tls&sni=rokkor.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=rokkor.us.kg&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@ns6.cloudflare.com:443?security=tls&sni=cnx.anjomansut.ir&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=cnx.anjomansut.ir&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@developers.cloudflare.com:443?security=tls&sni=xusheng1986.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=xusheng1986.us.kg&path=%2Ftr%3Fed%3D2560#BPB
+trojan://bpb-trojan@ns4.cloudflare.com:443?security=tls&sni=john2000.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=john2000.us.kg&path=%2Ftr%3Fed%3D2560#BPB
