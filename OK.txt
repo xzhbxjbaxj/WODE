@@ -1,4 +1,1 @@
-trojan://bpb-trojan@visa.co.ke:443?security=tls&sni=hbpb.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=hbpb.us.kg&path=%2Ftr%3Fed%3D2560#BPB
-trojan://bpb-trojan@developers.cloudflare.com:443?security=tls&sni=sub.ttt888.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=sub.ttt888.us.kg&path=%2Ftr%3Fed%3D2560#BPB
-trojan://bpb-trojan@ns3.cloudflare.com:443?security=tls&sni=cnx.anjomansut.ir&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=cnx.anjomansut.ir&path=%2Ftr%3Fed%3D2560#BPB
-trojan://bpb-trojan@visa.com.ai:443?security=tls&sni=rokkor.us.kg&alpn=h3&fp=randomized&allowlnsecure=1&type=ws&host=rokkor.us.kg&path=%2Ftr%3Fed%3D2560#BPB
+
